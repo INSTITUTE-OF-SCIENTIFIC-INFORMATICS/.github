@@ -1,4 +1,5 @@
-![banner_molecule_surface_text5](![1733222886081](https://github.com/user-attachments/assets/4d2909c3-0f2d-4866-96e2-b4d111372790))
+![1733222886081](https://github.com/user-attachments/assets/f8634424-b181-47e5-baf0-090ce7af1ad4)
+
 
 # Institute of Scientific Informatics Sri Lanka
 
