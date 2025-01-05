@@ -34,12 +34,23 @@ On progress
 | Mr. Sakeer MR | rifaideensakeer5@gmail.com | Tutor | B.sc Hons in M.L.S |
 | Miss. Sachini Primali | sachiniprimali@gmail.com | Tutor | B.sc Hons in M.L.S |
 | Mr. Ashan Sathsara | ASathsara3@gmail.com | Tutor | B.sc Hons in M.L.S |
-| Miss. Dharani Ariyasinghe | dharaniariyasinghe312@gmail.com | Research Fellow | B.sc in Animal Science |
+| Miss. Dharani Ariyasinghe | dharaniariyasinghe312@gmail.com | Research Student | B.sc in Animal Science |
 
 
 
 
 ### Our Research Group & Research Lab [STEMS]:
+
+| Name | Position |
+|-|-|
+| Mr. Anuththaara Gamage | Principle Supervisor |
+| Mr. Kalana Kotawalagedara | Research Coordinator |
+| Mr. Sakeer MR | Research Coordinator |
+| Miss. Sachini Primali | Research Coordinator |
+| Mr. Ashan Sathsara | Research Coordinator |
+| Miss. Dharani Ariyasinghe | Research Student |
+
+
 
 ![group_picture]()
 
