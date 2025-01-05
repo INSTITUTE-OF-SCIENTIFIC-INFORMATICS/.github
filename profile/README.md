@@ -5,11 +5,12 @@
 
 Welcome to the **Institute of Scientific Informatics, Sri Lanka** – a hub of innovation, scientific excellence and transformative learning. As a valued collaborator, we invite you to explore our cutting-edge resources, contribute to the advancement of knowledge and engage in our educational initiatives. Should you require access to our repositories, have teaching-related queries or seek further support, please don't hesitate to reach out to **Anuththara** or **Kalana**. Together, we can foster scientific discovery, enrich learning and make a lasting impact on both research and education.
 
-### Important Links
+## Important Links
 
-Home Website: On progress
+### Home Website: 
+On progress
 
-Recent Internal Projects:
+### Recent Internal Projects:
 
 1) LMS-HMS: Streamline lab operations with a Laboratory Information System (LIS) – a software hub managing patient data, testing workflows and reporting. It enhances accuracy, efficiency, and quality control, ultimately improving healthcare delivery.
 
@@ -21,7 +22,7 @@ Recent Open-Source Projects:
 
 1) Trad-Chem: The objective of this project is to create a comprehensive chemical data base that encompasses product name, benefits, diseases, chemical composition and cheminformatics notations for medicines commonly employed in traditional medicinal practices.
 
-#### Current Roster
+### Current Roster
 
 | Name | Email | Position | Education |
 |-|-|-|-|
@@ -38,10 +39,10 @@ Recent Open-Source Projects:
 
 
 
-#### Our Research Group & Research Lab [STEMS]:
+### Our Research Group & Research Lab [STEMS]:
 
 ![group_picture]()
 
-#### Our Network:
+### Our Network:
 
 ![visitor badge]()
