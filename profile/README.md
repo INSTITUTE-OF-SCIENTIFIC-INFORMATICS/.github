@@ -7,18 +7,29 @@ Welcome to the Institute of Scientific Informatics Sri Lanka. If you are a colla
 
 #### Important Links
 
-Home Website: 
+Home Website: On progress
 
 Recent Projects:
 
 
 #### Current Roster
 
-| Name | Email | Position | Degree |
+| Name | Email | Position | Education |
 |-|-|-|-|
-| Mr. Anuththaara Gamage | anuththaragamage45@gmail.com | CEO | B.sc Hons in M.L.S |
+| Mr. Anuththaara Gamage | anuththaragamage45@gmail.com | Director | B.sc Hons in M.L.S & B.I.T |
+| Mr. Damilola Bodun | kalanakotawalagedara@gmail.com | Director of Cheminformatics | B.sc Hons in Biochemistry |
+| Mr. Kalana Kotawalagedara | kalanakotawalagedara@gmail.com | Deputy Director | B.sc Hons in M.L.S |
+| Mr. Chiran Weerasinghe | chathurangheccw1995@gmail.com | Director of Data Science | M.sc in A.I and Data Science |
+| Mr. Kumuthu Dulnath | kumuthudulnath@gmail.com | Director of Software Engineering | B.sc Hons in I.T |
+| Mr. Sakeer MR | rifaideensakeer5@gmail.com | Tutor | B.sc Hons in M.L.S |
+| Miss. Sachini Primali | sachiniprimali@gmail.com | Tutor | B.sc Hons in M.L.S |
+| Mr. Ashan Sathsara | ASathsara3@gmail.com | Tutor | B.sc Hons in M.L.S |
+| Miss. Dharani Ariyasinghe | dharaniariyasinghe312@gmail.com | Research Fellow | B.sc in Animal Science |
 
-#### Our Pannel:
+
+
+
+#### Our Research Group & Research Lab [STEMS]:
 
 ![group_picture]()
 
