@@ -11,6 +11,12 @@ Home Website: On progress
 
 Recent Projects:
 
+1) LMS-HMS : Streamline lab operations with a Laboratory Information System (LIS) – a software hub managing patient data, testing workflows, and reporting. It enhances accuracy, efficiency, and quality control, ultimately improving healthcare delivery.
+
+2) Golem : Collaborating with golem to conduct advance simulations
+
+3) MDS-GIT_HUB_ACTIONS Intergrating Git-Hub Actions for MDS
+
 
 #### Current Roster
 
