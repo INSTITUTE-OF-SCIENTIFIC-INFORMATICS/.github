@@ -52,7 +52,6 @@ On progress
 
 
 
-![group_picture]()
 
 ### Our Network:
 
