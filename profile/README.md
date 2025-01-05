@@ -57,5 +57,6 @@ On progress
 
 At the **Institute of Scientific Informatics**, we forge dynamic collaborations with global scientific communities, International industry leaders, prestigious international universities and local academic institutions. Our network of diverse professors, lecturers and researchers are united in their mission to inspire and educate the next generation of innovators in Sri Lanka, while pioneering groundbreaking research and advancing the frontiers of knowledge. Together, we create an ecosystem where education, creativity and innovation thrive.
 
-![Contacts](https://github.com/user-attachments/assets/b4caa09c-8840-424f-a1df-66aa31cd9fdf)
+![Contacts](https://github.com/user-attachments/assets/a4350256-4015-4553-8521-62fd6907918e)
+
 
