@@ -3,7 +3,7 @@
 
 # Institute of Scientific Informatics Sri Lanka
 
-Welcome to the **Institute of Scientific Informatics, Sri Lanka** – a hub of innovation, scientific excellence, and transformative learning. As a valued collaborator, we invite you to explore our cutting-edge resources, contribute to the advancement of knowledge and engage in our educational initiatives. Should you require access to our repositories, have teaching-related queries, or seek further support, please don't hesitate to reach out to **Anuththara** or **Kalana**. Together, we can foster scientific discovery, enrich learning and make a lasting impact on both research and education.
+Welcome to the **Institute of Scientific Informatics, Sri Lanka** – a hub of innovation, scientific excellence and transformative learning. As a valued collaborator, we invite you to explore our cutting-edge resources, contribute to the advancement of knowledge and engage in our educational initiatives. Should you require access to our repositories, have teaching-related queries or seek further support, please don't hesitate to reach out to **Anuththara** or **Kalana**. Together, we can foster scientific discovery, enrich learning and make a lasting impact on both research and education.
 
 #### Important Links
 
