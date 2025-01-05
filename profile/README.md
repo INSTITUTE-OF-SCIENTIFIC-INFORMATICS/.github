@@ -9,14 +9,17 @@ Welcome to the Institute of Scientific Informatics Sri Lanka. If you are a colla
 
 Home Website: On progress
 
-Recent Projects:
+Recent Internal Projects:
 
-1) LMS-HMS : Streamline lab operations with a Laboratory Information System (LIS) – a software hub managing patient data, testing workflows, and reporting. It enhances accuracy, efficiency, and quality control, ultimately improving healthcare delivery.
+1) LMS-HMS: Streamline lab operations with a Laboratory Information System (LIS) – a software hub managing patient data, testing workflows and reporting. It enhances accuracy, efficiency, and quality control, ultimately improving healthcare delivery.
 
 2) Golem: Leveraging Decentralized Computing for Advanced Simulations.
 
 3) MDS-GitHub Actions: Automating Molecular Dynamics Simulations with CI/CD Integration.
 
+Recent Open-Source Projects:
+
+1) Trad-Chem: The objective of this project is to create a comprehensive chemical data base that encompasses product name, benefits, diseases, chemical composition and cheminformatics notations for medicines commonly employed in traditional medicinal practices.
 
 #### Current Roster
 
