@@ -27,7 +27,7 @@ On progress
 | Name | Email | Position | Education |
 |-|-|-|-|
 | Mr. Anuththaara Gamage | anuththaragamage45@gmail.com | Director | B.sc Hons in M.L.S & B.I.T |
-| Mr. Damilola Bodun | kalanakotawalagedara@gmail.com | Director of Cheminformatics | B.sc Hons in Biochemistry |
+| Mr. Damilola Bodun | dbodun56@gmail.com | Director of Cheminformatics | B.sc Hons in Biochemistry |
 | Mr. Kalana Kotawalagedara | kalanakotawalagedara@gmail.com | Deputy Director | B.sc Hons in M.L.S |
 | Mr. Chiran Weerasinghe | chathurangheccw1995@gmail.com | Director of Data Science | M.sc in A.I and Data Science |
 | Mr. Kumuthu Dulnath | kumuthudulnath@gmail.com | Director of Software Engineering | B.sc Hons in I.T |
