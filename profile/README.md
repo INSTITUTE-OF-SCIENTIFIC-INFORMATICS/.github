@@ -18,7 +18,7 @@ On progress
 
 3) MDS-GitHub Actions: Automating Molecular Dynamics Simulations with CI/CD Integration.
 
-Recent Open-Source Projects:
+### Recent Open-Source Projects:
 
 1) Trad-Chem: The objective of this project is to create a comprehensive chemical data base that encompasses product name, benefits, diseases, chemical composition and cheminformatics notations for medicines commonly employed in traditional medicinal practices.
 
