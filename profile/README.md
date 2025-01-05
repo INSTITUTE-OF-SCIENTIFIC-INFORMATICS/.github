@@ -55,4 +55,4 @@ On progress
 
 ### Our Network:
 
-![visitor badge]()
+At the **Institute of Scientific Informatics**, we forge dynamic collaborations with global scientific communities, industry leaders, prestigious international universities, and local academic institutions. Our network of diverse professors, lecturers, and researchers are united in their mission to inspire and educate the next generation of innovators in Sri Lanka, while pioneering groundbreaking research and advancing the frontiers of knowledge. Together, we create an ecosystem where education, creativity, and innovation thrive.
