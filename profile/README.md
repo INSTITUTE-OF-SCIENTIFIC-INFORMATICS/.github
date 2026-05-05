@@ -12,11 +12,7 @@ On progress
 
 ### Recent Internal Projects:
 
-1) LMS-HMS: Streamline lab operations with a Laboratory Information System (LIS) – a software hub managing patient data, testing workflows and reporting. It enhances accuracy, efficiency, and quality control, ultimately improving healthcare delivery.
-
-2) Golem: Leveraging Decentralized Computing for Advanced Simulations.
-
-3) MDS-GitHub Actions: Automating Molecular Dynamics Simulations with CI/CD Integration.
+Only limited to internal research groups
 
 ### Recent Open-Source Projects:
 
